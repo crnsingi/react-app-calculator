@@ -69,8 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
 React app calculator <img width="1920" alt="REACT CALCULATOR APP" src="https://github.com/user-attachments/assets/b113daba-520e-4f01-b2d8-de0170de2ccc">
-
-
